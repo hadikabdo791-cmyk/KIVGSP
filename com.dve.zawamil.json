@@ -1,9 +1,9 @@
 {
   "ad_status": "on",
   "ad_type": "admob",
-  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/4794077586",
-  "admob_banner_unit_id": "ca-app-pub-8320002930826092/6107159258",
-  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/5265579820",
-  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/4279072266",
+  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/2647013122",
+  "admob_banner_unit_id": "ca-app-pub-8320002930826092/3960094793",
+  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/3528849958",
+  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/3032491088",
   "onesignal_app_id": ""
 }
