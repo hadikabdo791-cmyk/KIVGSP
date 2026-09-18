@@ -1,4 +1,9 @@
 {
+  "AppUpdate": {
+    "force_update": true,
+    "update_message": "هذا التطبيق لم يعد مدعوماً، يرجى تثبيت النسخة الجديدة للاستمرار.",
+    "update_url": "https://play.google.com/store/apps/details?id=com.your.new.app"
+  },
   "Ads": {
     "ad_status" : "1",
     
@@ -8,13 +13,13 @@
     "ad_native" : "none",
     "openapp" : "admob",
     "back_up" : "none",
-    "ad_interval" : 3 ,
+    "ad_interval" : 3,
     
     "AdMob": {
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "interstitial": "ca-app-pub-3940256099942544/1033173712",
       "rewarded": "ca-app-pub-3940256099942544/5224354917",
-	  "native": "ca-app-pub-3940256099942544/1044960115",
+      "native": "ca-app-pub-3940256099942544/1044960115",
       "appopen" : "ca-app-pub-3940256099942544/9257395921"
     },
     
@@ -22,14 +27,14 @@
       "app_key": "12d657f25"
     },
     
-	"MAX": {
-	  "banner":"2965c66e51e81699",
-	  "interstitial":"61a23d63d2461798",
-	  "native": "c6258babf97ca328",
-	  "appopen" : "d1ac3378c8713d81"
-	},
-	
-	"FAN": {
+    "MAX": {
+      "banner":"2965c66e51e81699",
+      "interstitial":"61a23d63d2461798",
+      "native": "c6258babf97ca328",
+      "appopen" : "d1ac3378c8713d81"
+    },
+    
+    "FAN": {
       "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
