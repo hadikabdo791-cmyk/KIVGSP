@@ -1,6 +1,6 @@
 {
   "Ads": {
-    "ad_status": "on",
+    "ad_status": "off",
     "_comment": "admob",
     "ad_banner": "admob",
     "ad_inter": "admob",
