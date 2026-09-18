@@ -1,6 +1,6 @@
 {
   "AppUpdate": {
-    "force_update": true,
+    "force_update": false,
     "update_message": "هذا التطبيق لم يعد مدعوماً، يرجى تثبيت النسخة الجديدة للاستمرار.",
     "update_url": "https://play.google.com/store/apps/details?id=com.tech.Jackson"
   },
